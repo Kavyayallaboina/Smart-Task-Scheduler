@@ -22,15 +22,15 @@ This project is designed for beginners and implemented using a single Java file.
 
 ## Tools & Technologies Used
 
-Java (JDK)
+-  Java (JDK)
 
-Java Swing – for graphical user interface
+-  Java Swing – for graphical user interface
 
-PriorityQueue – for task prioritization
+-  PriorityQueue – for task prioritization
 
-File Handling – to store tasks permanently
+-  File Handling – to store tasks permanently
 
-VSCode
+-  VSCode
 
 ## Features
 
