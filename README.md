@@ -2,13 +2,13 @@
 
 ## Project Overview
 
-The Smart Task Scheduler is a Java-based desktop application that helps users manage their tasks efficiently.
+✔️  The Smart Task Scheduler is a Java-based desktop application that helps users manage their tasks efficiently.
 
-Tasks are automatically prioritized using a PriorityQueue based on urgency.
+✔️  Tasks are automatically prioritized using a PriorityQueue based on urgency.
 
-The application provides a simple graphical interface to add, delete, filter tasks and receive reminders.
+✔️  The application provides a simple graphical interface to add, delete, filter tasks and receive reminders.
 
-This project is designed for beginners and implemented using a single Java file.
+✔️  This project is designed for beginners and implemented using a single Java file.
 
 ## Objectives
 
