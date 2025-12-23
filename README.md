@@ -61,3 +61,8 @@ The Smart Task Scheduler successfully demonstrates task management using Java.
 It is a simple, efficient, and beginner-friendly application that applies core Java concepts such as data structures, GUI programming, timers, and file handling.
 
 The project can be further enhanced by adding features like task editing or database support.
+
+## Develpoed by
+Name: Y.Kavya
+Project Type: Mini Project
+
