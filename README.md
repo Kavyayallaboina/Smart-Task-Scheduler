@@ -34,29 +34,29 @@ This project is designed for beginners and implemented using a single Java file.
 
 ## Features
 
-Add new tasks with title, priority, and deadline
+-  Add new tasks with title, priority, and deadline
 
-Automatically sorts tasks by priority
+-  Automatically sorts tasks by priority
 
-Delete existing tasks
+-  Delete existing tasks
 
-Filter tasks:
+-  Filter tasks:
 
-All Tasks
+-  All Tasks
 
-High Priority Tasks
+-  High Priority Tasks
 
-Today’s Tasks
+-  Today’s Tasks
 
-Reminder popup for tasks due today
+-  Reminder popup for tasks due today
 
-Data persistence using file storage
+-  Data persistence using file storage
 
-Single .java file (no database, no external libraries)
+-  Single .java file (no database, no external libraries)
 
 ## Conclusion
 
-The Smart Task Scheduler successfully demonstrates task management using Java.
+>  The Smart Task Scheduler successfully demonstrates task management using Java.
 
 It is a simple, efficient, and beginner-friendly application that applies core Java concepts such as data structures, GUI programming, timers, and file handling.
 
