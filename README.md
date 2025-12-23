@@ -12,13 +12,13 @@ This project is designed for beginners and implemented using a single Java file.
 
 ## Objectives
 
- To manage tasks based on priority
+   To manage tasks based on priority
 
- To understand the use of PriorityQueue in Java
+   To understand the use of PriorityQueue in Java
 
- To implement a basic GUI using Java Swing
+   To implement a basic GUI using Java Swing
 
- To save and load task data using file handling
+   To save and load task data using file handling
 
 ## Tools & Technologies Used
 
