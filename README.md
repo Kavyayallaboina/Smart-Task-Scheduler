@@ -64,5 +64,6 @@ The project can be further enhanced by adding features like task editing or data
 
 ## Develpoed by
 Name: Y.Kavya
+
 Project Type: Mini Project
 
